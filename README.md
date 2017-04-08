@@ -19,3 +19,7 @@ MEAN app for the best ITSON students :)
       nodemon server.js
 ```
 
+5. Test it on http://localhost:8080
+
+Enjoy and Happy Coding! 🖖🖖🖖
+
