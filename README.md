@@ -21,5 +21,5 @@ MEAN app for the best ITSON students :)
 
 5. Test it on http://localhost:8080
 
-Enjoy and Happy Coding! 🖖🖖🖖
+**Enjoy and Happy Coding!** 🖖🖖🖖
 
