@@ -1,9 +1,10 @@
-Potro-app
+The Potro Web App & API
 ===
 MEAN app for the best ITSON students :)
 
 
-#How to use it
+How to use it
+=====
 
 1. Run
 
