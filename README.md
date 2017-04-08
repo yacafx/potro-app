@@ -10,8 +10,7 @@ MEAN app for the best ITSON students :)
       npm install
 
 2. Create database and their user on https://mlab.com
-3. Update cnx string on [a relative link](config.js) file with the user, pass, dbname and domain from mlab.com
-3. Update cnx string on [a workaround link](config.js) file 
+3. Update cnx string at [config.js](config.js) file with the user, pass, dbname and domain from mlab.com
 4. Run
 
       nodemon server.js
