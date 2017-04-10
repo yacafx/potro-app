@@ -2,6 +2,13 @@ The Potro Web App & API
 ===
 MEAN app for the best ITSON students :)
 
+## PRESO ISW
+
+You can find the talk presentations here:
+
+* [Gestión de proyectos web y móviles](https://www.slideshare.net/yacaFx/gestin-de-proyectos-web-y-mviles)
+* [Entrevista a un programador](https://www.slideshare.net/yacaFx/entrevista-a-un-programador-javascript)
+
 
 ## How to use it
 
