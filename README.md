@@ -6,8 +6,8 @@ MEAN app for the best ITSON students :)
 
 You can find the talk presentations here:
 
-* [Gestión de proyectos web y móviles](https://www.slideshare.net/yacaFx/gestin-de-proyectos-web-y-mviles){:target="_blank"}
-* [Entrevista a un programador](https://www.slideshare.net/yacaFx/entrevista-a-un-programador-javascript){:target="_blank"}
+* [Gestión de proyectos web y móviles](https://www.slideshare.net/yacaFx/gestin-de-proyectos-web-y-mviles)
+* [Entrevista a un programador](https://www.slideshare.net/yacaFx/entrevista-a-un-programador-javascript)
 
 
 ## How to use it
